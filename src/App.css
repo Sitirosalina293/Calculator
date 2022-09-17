@@ -7,7 +7,7 @@
 
 body {
   display :flex;
-  justify-contect : center;
+  justify-content : center;
   alig-item :center;
 }
 
@@ -37,7 +37,7 @@ input[type ="text"] {
   border: 0px;
   color : #ffffff;
   text-align:right;
-  font-sixe : 25px;
+  font-size : 25px;
   font-weight: 400;
   letter-spacing:1.15px;
 }
